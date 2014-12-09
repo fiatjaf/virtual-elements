@@ -1,0 +1,19 @@
+{
+  "name": "virtual-elements",
+  "version": "0.0.0",
+  "description": "Providers wrappers for virtual-hyperscript elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"leia Olavo de Carvalho.\""
+  },
+  "keywords": [
+    "virtual-hyperscript",
+    "react",
+    "reactjs"
+  ],
+  "author": "Giovanni T. Parra",
+  "license": "MIT",
+  "dependencies": {
+    "virtual-hyperscript": "^4.6.0"
+  }
+}
